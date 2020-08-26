@@ -1,0 +1,2 @@
+# myGitSample
+my first git 
