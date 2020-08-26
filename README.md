@@ -1,2 +1,2 @@
 # myGitSample
-my first git 
+my first git-but note
